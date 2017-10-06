@@ -1,16 +1,16 @@
 # Dependencies
 #markdown:         redcarpet
-highlighter:      pygments
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
 #relative_permalinks: true
 
 # Setup
-title:            Hyde
+title:            Pinnacle CRM
 tagline:          'A Jekyll theme, with instant search'
-description:      'The popular <a href="http://hyde.getpoole.com/" target="_blank">Hyde theme</a> for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, now with instant-search capabilities. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a> and <a href="https://www.algolia.com/" target="_blank">Algolia</a>'
-url:              https://github.com/algolia/algoliasearch-jekyll-hyde
+description:      'Searchable Guide for the Pinnacle Plus CRM'
+#url:              https://github.com/nicolem/pplusguide
 baseurl:
 # Travis will install Bundler dependencies in ./vendor, so we need to exclude it
 # otherwise Jekyll will try to build it (and fail)
@@ -24,10 +24,10 @@ author:
 #   name:           'Mark Otto'
 #   url:            https://twitter.com/mdo
 
-paginate:         5
+paginate:         10
 
 # Custom vars
-version:          2.1.0
+version:          10/6/17
 
 github:
     repo:         https://github.com/nicolem/pplusgroup

@@ -25,7 +25,7 @@ Acknowledging that it can quickly become a nightmare to find reliable
 information scattered all over the web,
 [Quadrant][2] is on a mission to **shorten
 any data search to seconds**. **So that data users can spend less time finding
-data and more time analysing it.**
+data and more time analyzing it.**
 
 To keep this promise, Quadrant provides data users with an intuitive platform
 that aggregates more than 400,000 indicators from over 1,000 public sources,
